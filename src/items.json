@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "name": "Inner Wisdom",
+        "description": "Cultivate inner wisdom inspired by the teachings of Socrates.",
+        "price": "Chant the mantra 'Know thyself' for 20 minutes."
+      },
+      {
+        "name": "Inner Peace",
+        "description": "Attain inner peace following the teachings of Buddha.",
+        "price": "Practice 10 minutes of Metta (loving-kindness) meditation upon awakening."
+      },
+      {
+        "name": "Universal Love",
+        "description": "Expand universal love based on the teachings of Jesus.",
+        "price": "Recite the Lord's Prayer 3 times a day."
+      },
+      {
+        "name": "Mental Balance",
+        "description": "Cultivate mental balance inspired by the concepts of Yin and Yang.",
+        "price": "Perform 30 minutes of Tai Chi at sunset."
+      },
+      {
+        "name": "Deep Gratitude",
+        "description": "Cultivate deep gratitude following the example of Mahatma Gandhi.",
+        "price": "Write down 3 things you are grateful for in a journal every night."
+      },
+      {
+        "name": "Mental Clarity",
+        "description": "Develop mental clarity based on the teachings of Lao Tzu.",
+        "price": "Read 10 pages of the Tao Te Ching every day."
+      },
+      {
+        "name": "Divine Unity",
+        "description": "Experience divine unity following the teachings of Rumi.",
+        "price": "Recite a poem by Rumi before going to sleep."
+      },
+      {
+        "name": "Spiritual Resilience",
+        "description": "Cultivate spiritual resilience inspired by the goddess Kali.",
+        "price": "Practice 15 minutes of Kundalini yoga upon awakening."
+      },
+      {
+        "name": "Inner Peace",
+        "description": "Attain inner peace following the teachings of Lao Tzu.",
+        "price": "Practice 10 minutes of Taoist meditation before going to sleep."
+      },
+      {
+        "name": "Unconditional Love",
+        "description": "Cultivate unconditional love inspired by the teachings of Krishna.",
+        "price": "Chant the Hare Krishna mantra for 20 minutes per day."
+      }
+    ]
+  }  
