@@ -20,11 +20,15 @@ export default function ItemCounter(){
         setCount(count+1)
     }
 
+    const onAdd = () => {
+        alert("you buy!")
+    }
     return(
         <>
             <h2>Cantidad: {count}</h2>
             <button onClick={() => plusCounter(quantity)}>+</button>
             <button onClick={decreaseCounter}>-</button>
+            <button onClick={onAdd}>Agregar</button>
         </>
     )
 }
