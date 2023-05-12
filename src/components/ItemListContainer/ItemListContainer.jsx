@@ -1,5 +1,6 @@
 import RedeemIcon from '@mui/icons-material/Redeem';
 import { useState } from 'react';
+import ItemList from '../ItemList/ItemList';
 import json from "../../items.json"
 
 export default function ItemListContainer({greeting}){
@@ -9,15 +10,7 @@ export default function ItemListContainer({greeting}){
 
     return(
         <div>
-        {
-            data.map((item, index) => (
-                <div key={index}>
-                    <h3>{item.name}</h3>
-                    <p>{item.description}</p>
-                    <p>{item.price}</p>
-                </div>
-            ))
-        }
+        <ItemList data={data}></ItemList>
         </div> 
     )
 }
