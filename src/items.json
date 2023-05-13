@@ -1,54 +1,101 @@
 {
-    "products": [
-      {
-        "name": "Inner Wisdom",
-        "description": "Cultivate inner wisdom inspired by the teachings of Socrates.",
-        "price": "Chant the mantra 'Know thyself' for 20 minutes."
-      },
-      {
-        "name": "Inner Peace",
-        "description": "Attain inner peace following the teachings of Buddha.",
-        "price": "Practice 10 minutes of Metta (loving-kindness) meditation upon awakening."
-      },
-      {
-        "name": "Universal Love",
-        "description": "Expand universal love based on the teachings of Jesus.",
-        "price": "Recite the Lord's Prayer 3 times a day."
-      },
-      {
-        "name": "Mental Balance",
-        "description": "Cultivate mental balance inspired by the concepts of Yin and Yang.",
-        "price": "Perform 30 minutes of Tai Chi at sunset."
-      },
-      {
-        "name": "Deep Gratitude",
-        "description": "Cultivate deep gratitude following the example of Mahatma Gandhi.",
-        "price": "Write down 3 things you are grateful for in a journal every night."
-      },
-      {
-        "name": "Mental Clarity",
-        "description": "Develop mental clarity based on the teachings of Lao Tzu.",
-        "price": "Read 10 pages of the Tao Te Ching every day."
-      },
-      {
-        "name": "Divine Unity",
-        "description": "Experience divine unity following the teachings of Rumi.",
-        "price": "Recite a poem by Rumi before going to sleep."
-      },
-      {
-        "name": "Spiritual Resilience",
-        "description": "Cultivate spiritual resilience inspired by the goddess Kali.",
-        "price": "Practice 15 minutes of Kundalini yoga upon awakening."
-      },
-      {
-        "name": "Inner Peace",
-        "description": "Attain inner peace following the teachings of Lao Tzu.",
-        "price": "Practice 10 minutes of Taoist meditation before going to sleep."
-      },
-      {
-        "name": "Unconditional Love",
-        "description": "Cultivate unconditional love inspired by the teachings of Krishna.",
-        "price": "Chant the Hare Krishna mantra for 20 minutes per day."
-      }
-    ]
-  }  
+  "products": [
+    {
+      "index":1,
+      "name": "Determination",
+      "description": "Arjuna's determination, to conquer",
+      "price": "Wake up in the morning and repeat 'Om namah shivaya' 30 times",
+      "category": "Easy"
+    },
+    {
+      "index":2,
+      "name": "Inner Wisdom",
+      "description": "Seeking inner wisdom in stoic philosophy",
+      "price": "Meditate for 10 minutes every day",
+      "category": "Easy"
+    },
+    {
+      "index":3,
+      "name": "Acceptance",
+      "description": "Practicing acceptance of circumstances",
+      "price": "Write a gratitude journal with at least 5 things every night",
+      "category": "Easy"
+    },
+    {
+      "index":4,
+      "name": "Resilience",
+      "description": "Developing resilience in the face of life's challenges",
+      "price": "Practice deep breathing exercises for 5 minutes during moments of stress",
+      "category": "Intermediate"
+    },
+    {
+      "index":5,
+      "name": "Self-Discipline",
+      "description": "Cultivating self-discipline in daily actions",
+      "price": "Create and follow a daily schedule for at least 1 week",
+      "category": "Intermediate"
+    },
+    {
+      "index":6,
+      "name": "Equanimity",
+      "description": "Maintaining calmness and equanimity in difficult situations",
+      "price": "Practice mindfulness meditation for 15 minutes a day",
+      "category": "Intermediate"
+    },
+    {
+      "index":7,
+      "name": "Virtue",
+      "description": "Seeking virtue in every action and decision",
+      "price": "Perform acts of kindness towards others at least 3 times a day",
+      "category": "Intermediate"
+    },
+    {
+      "index":8,
+      "name": "Gratitude",
+      "description": "Cultivating an attitude of gratitude in daily life",
+      "price": "Write a gratitude list with at least 10 things every morning",
+      "category": "Intermediate"
+    },
+    {
+      "index":9,
+      "name": "Detachment",
+      "description": "Learning to let go of material possessions",
+      "price": "Donate at least 5 items you no longer need",
+      "category": "Difficult"
+    },
+    {
+      "index":10,
+      "name": "Transcendence of Ego",
+      "description": "Going beyond the ego and connecting with the inner essence",
+      "price": "Practice self-transcendence meditation for 20 minutes a day",
+      "category": "Difficult"
+    },
+    {
+      "index":11,
+      "name": "Introspection",
+      "description": "Regularly examining thoughts and actions",
+      "price": "Maintain a personal reflection journal by writing at least 20 words every day",
+      "category": "Difficult"
+    },
+    {
+      "index":12,
+      "name": "Emotional Detachment",
+      "description": "Developing emotional detachment from outcomes",
+      "price": "Practice mindfulness and observe emotions without attachment",
+      "category": "Difficult"
+    },
+    {
+      "index":13,
+      "name": "Silence",
+      "description": "Cultivating inner silence through meditation",
+      "price": "Sit in silence for 15 minutes every day",
+      "category": "Difficult"
+    },
+    {
+      "index":14,
+      "name": "Non-Attachment to Thoughts",
+      "description": "Letting go of attachment to thoughts and mental patterns",
+      "price": "Practice observing thoughts without judgment or attachment",
+      "category": "Difficult"
+    }
+]}
